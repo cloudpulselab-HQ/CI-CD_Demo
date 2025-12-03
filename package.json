@@ -1,0 +1,13 @@
+{
+  "name": "cloudpulse",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "lint": "eslint src/**/*.js",
+    "test": "echo \"No tests yet\" && exit 0",
+    "build": "echo \"Build step OK\""
+  },
+  "devDependencies": {
+    "eslint": "^9.0.0"
+  }
+}
